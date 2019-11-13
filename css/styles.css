@@ -57,15 +57,12 @@ a:hover {text-decoration:underline;}
 }
 
 #logo {
-	font-family: 'Coustard', serif;
-	font-size: 49px;
 	bottom:40px;
-	height:auto;
 	left:40px;
 	position:absolute;
-	width:20%;
+	width:110px;
+	height:90px;
 	z-index:1000;
-	color: #fff;
 }
 
 .main-nav{
