@@ -118,3 +118,21 @@ button.full-screen:hover {opacity: 1;}
 #arrow_left {
 	right:95px;
 }
+
+#home p {
+	font-size: 18px;
+	color: #fff;
+	line-height: 28px;
+}
+
+#about p {
+	font-size: 18px;
+	color: #fff;
+	line-height: 28px;
+}
+
+#contact p {
+	font-size: 18px;
+	color: #fff;
+	line-height: 28px;
+}
