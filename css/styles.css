@@ -124,15 +124,40 @@ button.full-screen:hover {opacity: 1;}
 	color: #fff;
 	line-height: 28px;
 }
-
+#contact p {
+	font-size: 18px;
+	color: #fff;
+	line-height: 28px;
+}
+#drones p {
+	font-size: 18px;
+	color: #fff;
+	line-height: 28px;
+}
 #about p {
 	font-size: 16px;
 	color: #fff;
 	line-height: 28px;
 }
 
-#contact p {
-	font-size: 18px;
-	color: #fff;
-	line-height: 28px;
+#home a {
+	color: #f52807;
+	text-decoration: none;
 }
+#about a {
+	color: #f52807;
+	text-decoration: none;
+}
+
+#drones a {
+	color: #f52807;
+	text-decoration: none;
+}
+
+
+#contact a {
+	color: #f52807;
+	text-decoration: none;
+}
+
+
