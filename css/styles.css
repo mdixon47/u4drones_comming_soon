@@ -75,7 +75,13 @@ a:hover {text-decoration:underline;}
 	padding-left: 10px;
 	border-left: 1px solid #b7b7b7;
 }
-.main-nav ul li a.active {color: #f52807;}
+
+.main-nav ul li a{
+	font-weight: bold;
+}
+.main-nav ul li a.active {
+	color: #f52807;
+}
 
 .social-nav {
 	position:absolute;
