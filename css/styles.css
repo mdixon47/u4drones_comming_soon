@@ -78,6 +78,7 @@ a:hover {text-decoration:underline;}
 
 .main-nav ul li a{
 	font-weight: bold;
+	text-decoration: none;
 }
 .main-nav ul li a.active {
 	color: #f52807;
