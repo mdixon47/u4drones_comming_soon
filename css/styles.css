@@ -3,7 +3,7 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 21px;
 	font-weight:400;
 	-webkit-font-smoothing: antialiased;
@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6{
 	font-weight: normal;
 	letter-spacing: 1px;
 }
-h1{font-size: 63px; line-height: 70px; padding: 0; margin: 0;}
+h1{font-size: 50px; line-height: 70px; padding: 0; margin: 0;}
 h5{font-size: 28px; line-height: 35px; padding: 0; margin: 0; color: #f52807;}
 
 a {
@@ -50,7 +50,7 @@ a:hover {text-decoration:underline;}
 	margin:40px;
 	position:absolute;
 	top:200px;
-	width:600px;
+	width:700px;
 	z-index:9999;
 	-webkit-font-smoothing:antialiased;
 }
@@ -147,6 +147,11 @@ button.full-screen:hover {opacity: 1;}
 	color: #fff;
 	line-height: 28px;
 }
+#training p {
+	font-size: 18px;
+	color: #fff;
+	line-height: 28px;
+}
 
 #home a {
 	color: #f52807;
@@ -161,6 +166,11 @@ button.full-screen:hover {opacity: 1;}
 	color: #f52807;
 	text-decoration: none;
 }
+#training a {
+	color: #f52807;
+	text-decoration: none;
+}
+
 
 
 #contact a {
